@@ -97,8 +97,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "La Saveur d'une Vie",
+        "meta_descr": "Un film documentaire qui explore les enjeux de nos relations avec les animaux et questionne notre façon de vivre avec eux.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
